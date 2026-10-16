@@ -1,3 +1,3 @@
 # Proyect
 Proyecto Final del Modulo 3.8 - ITSI
-yo.jpeg
+![Prueba](main/yo.jpeg)
