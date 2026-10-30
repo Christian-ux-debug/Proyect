@@ -8,5 +8,5 @@ Integrantes:
 - Christian Eduardo Menjivar Perez
 - Josue Bladimir Hernandez Lara
 - Jefferson Bladimir Marroquin Marroquin
-- Fernando Rafael
-- Darlyn Melissa
+- Fernando Rafael Aguilar Gónzalez 
+- Darlyn Melissa González Cruz 
